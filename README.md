@@ -1,5 +1,3 @@
-<img src="./whoami.svg" alt="Whoami">
-
 <p align="center">
   <img src="./whoami.svg" alt="Whoami">
 </p>

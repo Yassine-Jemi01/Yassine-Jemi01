@@ -25,6 +25,12 @@ My main interests are Linux, NixOS, Python, developer tools, and command-line ap
 
 ## Projects
 
+### SClipVault
+
+A lightweight clipboard history manager for Linux with automatic Wayland and X11 backend detection, clipboard monitoring, and local SQLite storage.
+
+**Python • SQLite • Wayland • X11**
+
 ### TypeSpeedTest
 
 A typing-speed application focused on live WPM, accuracy, and typing feedback.
@@ -50,6 +56,9 @@ NixOS
 Nix
 Git
 GitHub
+SQLite
+Wayland
+X11
 Home Manager
 
 **Interests**

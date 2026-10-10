@@ -56,7 +56,7 @@ def fetch_repositories() -> list[dict]:
         except (HTTPError, URLError, TimeoutError, json.JSONDecodeError) as exc:
             raise RuntimeError(f"Could not fetch repositories from GitHub: {exc}") from exc
 
-        if not istance(batch, list):
+        if not isinstance(batch, list):
             raise RuntimeError("GitHub API returned an unexpected response format.")
         if not batch:
             break

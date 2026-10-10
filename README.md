@@ -5,73 +5,42 @@
 <h1 align="center">Yassine Jemi</h1>
 
 <p align="center">
-  Linux enthusiast • NixOS user • Python developer
+  Linux enthusiast » Systems programming · C, Go & Python
 </p>
 
 ---
 
-## About
+## Who am I?
 
-I build small, practical software and learn by working on real projects.
+I build practical software, mainly around Linux and developer tools. I enjoy understanding how things work under the hood, from command-line utilities and desktop tools to compilers and package-management systems.
 
-My main interests are Linux, NixOS, Python, developer tools, and command-line applications. I prefer understanding how things work and building useful tools over following trends.
+I learn by building real projects, testing edge cases, reading feedback, and improving the implementation over time. I value useful documentation, clear error messages, and software that is honest about its current limitations.
 
-## What I'm Working On
+## Selected projects
 
-* Linux and NixOS tooling
-* Python CLI and TUI applications
-* Improving software structure and code quality
-* Learning through open-source projects and contributions
+<!-- AUTO-PROJECTS:START -->
+| Project | What it does | Language | Stars |
+|---|---|---:|---:|
+| [SmartFetch](https://github.com/Yassine-Jemi01/SmartFetch) | Fast Linux system-information tool with distribution artwork and hardware details. | C | 22 |
+| [yspm](https://github.com/Yassine-Jemi01/yspm) | Experimental Linux package manager focused on package transactions and repository metadata. | Go | 4 |
+| [YLang](https://github.com/Yassine-Jemi01/ylang) | A compiled programming language and compiler toolchain written in C17. | C | 3 |
+| [ForgeFM](https://github.com/Yassine-Jemi01/ForgeFM) | A Linux file-manager prototype built with C, GTK4, and GIO. | C | 3 |
+| [TypeSpeedTest](https://github.com/Yassine-Jemi01/TypeSpeedTest) | A cross-platform terminal typing-speed test with live WPM and accuracy. | Python | 7 |
+<!-- AUTO-PROJECTS:END -->
 
-## Projects
+_This list is refreshed automatically by GitHub Actions. Projects are ranked using a simple score based on GitHub stars and recent push activity. It is a discovery heuristic, not a definitive measure of code quality._
 
-### SClipVault
+## Technologies & interests
 
-A lightweight clipboard history manager for Linux with automatic Wayland and X11 backend detection, clipboard monitoring, and local SQLite storage.
+- **Languages:** C, Go, Python
+- **Systems:** Linux, CLI tools, compiler development, package management
+- **Tools:** Git, GitHub Actions, GCC, Clang, Make
+- **Other areas:** GTK4, SQLite, Wayland, X11
 
-**Python • SQLite • Wayland • X11**
+## My approach
 
-### TypeSpeedTest
-
-A typing-speed application focused on live WPM, accuracy, and typing feedback.
-
-**Python**
-
-### Nixctl
-
-A small NixOS command-line tool for common system maintenance and rebuild operations.
-
-**Python • NixOS**
-
-## Technologies
-
-**Languages**
-
-Python
-
-**Systems & Tools**
-
-Linux
-NixOS
-Nix
-Git
-GitHub
-SQLite
-Wayland
-X11
-Home Manager
-
-**Interests**
-
-System tooling
-CLI applications
-Linux customization
-Open source
-
-## Approach
-
-I prefer practical projects, simple solutions, and understanding what I build rather than relying on abstractions I don't understand.
+I prefer practical projects, understandable implementations, automated tests, and documentation that helps people build and try the software. I would rather make a smaller tool reliable than claim a prototype is production-ready before it is.
 
 <p align="center">
-  <a href="https://github.com/Yassine-Jemi01">GitHub</a>
+  <a href="https://github.com/Yassine-Jemi01">GitHub profile</a>
 </p>

@@ -21,11 +21,11 @@ I learn by building real projects, testing edge cases, reading feedback, and imp
 <!-- AUTO-PROJECTS:START -->
 | Project | Description | Language | Stars |
 |---|---|---:|---:|
-| [SmartFetch](https://github.com/Yassine-Jemi01/SmartFetch) | SmartFetch is a fast, lightweight Linux system information fetch tool written in C. It displays system hardware, OS details, kernel, uptime, memory, and thermal stats alongside dynamic distribution ASCII art directly in your terminal. | C | 22 |
+| [ylang](https://github.com/Yassine-Jemi01/ylang) | A simple Programming language | C | 11 |
+| [SmartFetch](https://github.com/Yassine-Jemi01/SmartFetch) | SmartFetch is a fast, lightweight Linux system information fetch tool written in C. It displays system hardware, OS details, kernel, uptime, memory, and thermal stats alongside dynamic distribution ASCII art directly in your terminal. | C | 23 |
 | [yspm](https://github.com/Yassine-Jemi01/yspm) | Open-source project; see the repository for details. | Go | 4 |
-| [ylang](https://github.com/Yassine-Jemi01/ylang) | A simple Programming language | C | 3 |
 | [yguard](https://github.com/Yassine-Jemi01/yguard) | Open-source project; see the repository for details. | Shell | 1 |
-| [ForgeFM](https://github.com/Yassine-Jemi01/ForgeFM) | A fast, modern file manager for Linux, built from scratch with C and GTK4. | C | 3 |
+| [ForgeFM](https://github.com/Yassine-Jemi01/ForgeFM) | A fast, modern file manager for Linux, built from scratch with C and GTK4. | C | 4 |
 <!-- AUTO-PROJECTS:END -->
 
 _This list is refreshed automatically by GitHub Actions. Projects are ranked using a simple score based on GitHub stars and recent push activity. It is a discovery heuristic, not a definitive measure of code quality._
